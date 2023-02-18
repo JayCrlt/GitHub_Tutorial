@@ -17,7 +17,7 @@ Because you are working in ecology 🌱, one of the best use you can do, is to u
 - Your Figures 📊
 
 Note that you can use emojis to be more friendly.\
-You have two options; if you know the emoji code, then you can use it. For example, if you want a folder, you can use the code `:file_folder:`. If you don't know the code, you can still copy/paste from an [emoji website](https://getemoji.com).\
+You have two options; if you know the [emoji code](https://gist.github.com/rxaviers/7360908), then you can use it. For example, if you want a folder, you can use the code `:file_folder:`. If you don't know the code, you can still copy/paste from an [emoji website](https://getemoji.com).\
 You can also refer some keywords to another page using brackets and the URL. To do so, put brackets around the word, or the group of words you want to highlight, followed by the URL in parenthesis.
 
 There are plenty of ways to help your reader and to make your repository fancier. If you're not used to ``RMarkdown``, I recommend having a look at [RMarkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
