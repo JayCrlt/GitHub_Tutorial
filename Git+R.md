@@ -31,17 +31,21 @@ You will get the repository in your laptop. I hope both markdown can help you to
 **:two: Second option**\
 The second option is far more interesting. Let's say R is not very your friend 😒, but, hey, you're an ecologist 🌱, you have to deal with it! 🤭
 But how about, you have a good friend of yours that can give you a hand with a tricky problem? Or what about you've to start a project with several people, and each of you gets a task to do on R, people A, B and C is curing the data, people D and E will do the ecological analyse, people F will define an ambitious mathematical model. So far you can tell me: "Yes, once people A, B and C are done, they'll send the data to people D, E and F". Yeah, that's an option. Until people A is figuring out that he made a mistake and everything will likely change 🤯
+
+![alt](https://thinkr.fr/wp-content/uploads/git_notfinal.gif)
+
 At this very moment, you can feel that GitHub will be a powerful tool for efficiency 🤩
 
 **So, how does that work?**
 
-I will ask you to create a new project called as you want. I won't give you a hint to how call it because, it's personal, and because I will want that you share it in the end./
-However, I can recall you that you have to create your project in [``GitHub``](https://github.com) to get the URL 
+I will ask you to create a new project called as you want. I won't give you a hint to how call it because, it's personal, and because I will want that you share it in the end.\
+However, I can recall you that you have to create your project in [``GitHub``](https://github.com) to get the URL.\
+It would be easier for your first time to make your repository public. But, 
 Once your project is created in GitHub, you can link it to your R project.
 You will get a folder. Remember into this folder, it would be great to have:
 - a ``R subfolder`` :file_folder:
 - a ``Data subfolder`` :file_folder:
-- a ``Results subfolder`` :file_folder:
+- a ``Results subfolder`` :file_folder:\
 You can now open a new R script called as you want again e.g. `my_script.R`
 And now, you will be able to open a new script into this project: New file > R script and for the fantasy:
 
@@ -55,4 +59,6 @@ ggplot(my_amazing_data) +
 ```
 
 You might like to change it slightly, using Petal.Length instead of Sepal.Length. 
-Or maybe you might just want to change the colors. 
+Or maybe you might just want to change the colors. Do some changes or built a new plot if you want to amaze your mates.
+
+Then, you will save your script as usual.
