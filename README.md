@@ -53,9 +53,9 @@ attached base packages:
 
 To conclude, it is worth it to build some hierarchy into your repository,\
 I recommend getting always:
-- a single [``R``] folder :file_folder:, hosting for your RProj and your R scripts.
-- a single [``Data``] folder :file_folder:, hosting for your data you are willing to share.
-- a single [``Results``] folder :file_folder:, hosting for your raw or edited Figures.
+- a single ``R`` folder :file_folder:, hosting for your RProj and your R scripts.
+- a single ``Data`` folder :file_folder:, hosting for your data you are willing to share.
+- a single ``Results`` folder :file_folder:, hosting for your raw or edited Figures.
 
 [Here](https://github.com/JayCrlt/CCA_Methods) is an example of a perfectly reproducible repository.
 
