@@ -13,7 +13,7 @@ In theory, you've installed Git+R. If it is not the case, you have a great tutor
 ❌ From now on, you will never ever open a single R script and lose it due to your disorganized workplace.\
 ✅ In the upper side of your window, go to File > New Project > Version Control.
 
-If you are a good practicer, you will have this window:\
+If you are a good practicer, you will get this window opened:\
 ![alt text](https://experimentalbehaviour.files.wordpress.com/2018/01/screenshot6.png?w=578)
 
 Here you will get two options:
@@ -62,4 +62,12 @@ ggplot(my_amazing_data) +
 You might like to change it slightly, using Petal.Length instead of Sepal.Length. 
 Or maybe you might just want to change the colors. Do some changes or built a new plot if you want to amaze your mates.
 
-Then, you will save your script as usual.
+Then, you will save your script as usual. You're almost done!\
+You might notice on the top a section GIT, with the GIT logo. Clicking on it, you will find a sub-section ``Commit...``.\
+Select the documents you want to upload, fill the field ``Commit message`` – This is mandatory! ⚠️\
+And then Push ! ⬆️
+
+From now, it appears that your script will be online and accessible to everyone.\
+NB: If you chose a private repository, only your collaborators might see it.
+
+By the way, It would be awesome to add some mates you want to collaborate with, don't you think? 😉
