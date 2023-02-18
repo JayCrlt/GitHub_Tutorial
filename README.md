@@ -24,11 +24,14 @@ There are plenty of ways to help your reader and to make your repository fancier
 
 You can also make tables, in certain cases, if you feel the need.
 
-People     Age        Size
---------   --------   --------
-Jérémy     30 yrs     173 cm
-Valentin   28 yrs     176 cm
---------   --------   --------
+| Term                   | Definition                                                                                    | 
+|-----------------------:|:----------------------------------------------------------------------------------------------|
+| Dataset                | A collection of related sets of information that is composed of separate elements (data files) but can be manipulated as a unit by a computer.         |
+
+People   | Age      | Size    |
+--------:|:--------:|:--------|
+Jérémy   | 30 yrs   | 173 cm  |
+Valentin | 28 yrs   | 176 cm  |
 
 To go a bit further\
 But one of the highest strengths of ``RMarkdown``, is that you can write down some ideas or start writing down even for a meeting presentation, including (or not) your R analysis and your outputs. Most of the time, you will work with chunks. If you are interested, we can work on this during another tutorial.
