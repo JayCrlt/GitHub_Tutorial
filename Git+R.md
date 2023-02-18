@@ -74,4 +74,6 @@ By the way, It would be awesome to add some mates you want to collaborate with, 
 In the Github Settings (from your repository) you might find a collaborator section.\
 Your collaborator will pull ⬇️ your project and do some corrections of his own. Let's say, he does not like the colors and will change it. However, your are colorblind, and you cannot appreciate the changes made. Spoiler alert ⚠️: here is one of the best features that GitHub can provide. In the commit section, you will notice an history section, click on it. All the commits done are listed and you can go backwards if a change don't please you. Isn't it amazing?
 
+⚠️ Each time a change has been made from a collaborator, you will have to pull first, before pushing. Otherwise, it might not work.
+
 Now you are ready to collaborate more efficiently. I hope it has helped you, and if you need some basic assistance, you can reach me out at jay.crlt02 at gmail.com.
