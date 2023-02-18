@@ -9,7 +9,7 @@ Participants:
 ---
 
 This document is a ``RMarkdown``.\
-It will be presented at the beginning, and can / <u> **should** </u> be used to explain to your readers the purpose of this repository.
+It will be presented at the beginning, and can / **should** be used to explain to your readers the purpose of this repository.
 
 Because you are working in ecology 🌱, one of the best use you can do, is to use a GitHub Repository to store:
 - Your Data 📝
