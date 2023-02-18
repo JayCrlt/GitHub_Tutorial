@@ -59,4 +59,4 @@ I recommend getting always:
 
 [Here](https://github.com/JayCrlt/CCA_Methods) is an example of a perfectly reproducible repository.
 
-From here, we can move on and work directly with a case study using R: Tutorial R+Git
+From here, we can move on and work directly with a case study using R: Tutorial [``R+Git``](https://github.com/JayCrlt/GitHub_Tutorial/blob/main/Git%2BR.md)
