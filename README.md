@@ -24,10 +24,7 @@ There are plenty of ways to help your reader and to make your repository fancier
 
 You can also make tables, in certain cases, if you feel the need.
 
-| Term                   | Definition                                                                                    | 
-|-----------------------:|:----------------------------------------------------------------------------------------------|
-| Dataset                | A collection of related sets of information that is composed of separate elements (data files) but can be manipulated as a unit by a computer.         |
-
+**Table 1.** Silly example
 People   | Age      | Size    |
 --------:|:--------:|:--------|
 Jérémy   | 30 yrs   | 173 cm  |
@@ -60,4 +57,6 @@ I recommend getting always:
 - a single [``Data``] folder :file_folder:, hosting for your data you are willing to share.
 - a single [``Results``] folder :file_folder:, hosting for your raw or edited Figures.
 
-[Here](https://github.com/JayCrlt/CCA_Methods) is an example of a perfectly reproducible repository
+[Here](https://github.com/JayCrlt/CCA_Methods) is an example of a perfectly reproducible repository.
+
+From here, we can move on and work directly with a case study using R: Tutorial R+Git
