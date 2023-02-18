@@ -45,7 +45,8 @@ Once your project is created in GitHub, you can link it to your R project.
 You will get a folder. Remember into this folder, it would be great to have:
 - a ``R subfolder`` :file_folder:
 - a ``Data subfolder`` :file_folder:
-- a ``Results subfolder`` :file_folder:\
+- a ``Results subfolder`` :file_folder:
+
 You can now open a new R script called as you want again e.g. `my_script.R`
 And now, you will be able to open a new script into this project: New file > R script and for the fantasy:
 
