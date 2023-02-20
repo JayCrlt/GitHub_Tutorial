@@ -1,6 +1,8 @@
 # GitHub tutorial <img src='https://pbs.twimg.com/profile_images/1325855926931361795/dQnR5_W-_400x400.jpg' align="right" height="138.5" />
 
-Participants:
+This tutorial is presented by [Jérémy Carlot](https://orcid.org/0000-0003-0887-8005), post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at IMEV in France. He is part of the [CHOC team](https://lov.imev-mer.fr/web/team-choc/.
+
+Participants in 2023:
 - Mégane Ballin
 - [Jordi Boada](https://orcid.org/0000-0002-3815-625X),
 - Diego Moreno Moran,
