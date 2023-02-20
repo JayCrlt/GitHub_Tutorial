@@ -1,4 +1,4 @@
-# GitHub tutorial 23.02.23
+# GitHub tutorial
 
 Participants:
 - Mégane Ballin

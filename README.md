@@ -1,4 +1,4 @@
-# GitHub tutorial 23.02.23
+# GitHub tutorial <img src='https://pbs.twimg.com/profile_images/1325855926931361795/dQnR5_W-_400x400.jpg' align="right" height="138.5" />
 
 Participants:
 - Mégane Ballin
