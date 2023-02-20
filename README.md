@@ -12,10 +12,10 @@ Participants:
 This document is a ``RMarkdown``.\
 It will be presented at the beginning, and can / **should** be used to explain to your readers the purpose of this repository.
 
-Because you are working in ecology 🌱, one of the best use you can do, is to use a GitHub Repository to store:
-- Your Data 📝
-- Your Code 💻
-- Your Figures 📊
+Because you are working in ecology :seedling:, one of the best use you can do, is to use a GitHub Repository to store:
+- Your Data :memo:
+- Your Code :computer:
+- Your Figures :bar_chart:
 
 Note that you can use emojis to be more friendly.\
 You have two options; if you know the [emoji code](https://gist.github.com/rxaviers/7360908), then you can use it. For example, if you want a folder, you can use the code `:file_folder:`. If you don't know the code, you can still copy/paste from an [emoji website](https://getemoji.com).\
@@ -24,7 +24,7 @@ You can also refer some keywords to another page using brackets and the URL. To 
 There are plenty of ways to help your reader and to make your repository fancier. If you're not used to ``RMarkdown``, I recommend having a look at [RMarkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 You can also make tables, in certain cases, if you feel the need.
-Below I show you a silly example, but it can be terrific for the data curation use (e.g. [here](https://github.com/JWicquart/gcrmndb_benthos))
+Below I show you a silly example, but it can be terrific for data curation use (e.g. [here](https://github.com/JWicquart/gcrmndb_benthos))
 
 **Table 1.** Silly example
 People   | Age      | Size    |
