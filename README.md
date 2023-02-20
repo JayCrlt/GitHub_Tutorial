@@ -1,4 +1,4 @@
-# GitHub tutorial <img src='Logo/CHOC.png' align="right" height="120" />
+# GitHub tutorial <img src='Logo/CHOC.png' align="right" height="120" /> 
 
 This tutorial is presented by [Jérémy Carlot](https://orcid.org/0000-0003-0887-8005), post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at IMEV in France. He is part of the [CHOC team](https://lov.imev-mer.fr/web/team-choc/).
 
