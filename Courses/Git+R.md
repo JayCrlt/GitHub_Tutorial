@@ -68,4 +68,4 @@ Your collaborator will pull ⬇️ your project and do some corrections. Let's s
 
 ⚠️ Each time a change has been made from a collaborator, you will have to pull first before pushing. Otherwise, it might not work.
 
-Now you are ready to collaborate more efficiently. I hope it has helped you, and if you need some basic assistance, you can reach me at jay.crlt02 at gmail.com.
+Now you are ready to collaborate more efficiently. I hope it was crystal clear and it has helped you. If it is the case, feel free to star this repository and to spread the word to the entire world! 🌍
