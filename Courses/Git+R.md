@@ -1,13 +1,4 @@
-# GitHub tutorial
-
-Participants:
-- Mégane Ballin
-- [Jordi Boada](https://orcid.org/0000-0002-3815-625X),
-- Diego Moreno Moran,
-- [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405),
-- [Jana Verdura](https://orcid.org/0000-0003-0662-1206)
-
----
+# Git+R, the best combo you can dream of
 
 In theory, you've installed Git+R. If it is not the case, you have a great tutorial [here](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) to install it for your machine.
 
