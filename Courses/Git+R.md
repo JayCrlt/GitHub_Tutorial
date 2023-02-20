@@ -28,7 +28,7 @@ But how about you have a good friend of yours that can give you a hand with a tr
 
 At this very moment, you can feel that GitHub will be a powerful tool for efficiency 🤩
 
-**So, how does that work?**
+## So, how does that work? Let's practice!
 
 I will ask you to create a new project called as you want. I won't give you a hint of how to call it because I want you to share it later.\
 However, I can recall that you have to create your project in [``GitHub``](https://github.com) to get the URL.\
@@ -64,7 +64,7 @@ NB: If you chose a private repository, only your collaborators might see it.
 
 By the way, It would be awesome to add some mates you want to collaborate with, don't you think? 😉\
 You might find a collaborator section in the GitHub Settings (from your repository).\
-Your collaborator will pull ⬇️ your project and do some corrections. Let's say he does not like the colors and will change them. However, you are colorblind and cannot appreciate the changes made. Spoiler alert ⚠️: here is one of the best features that GitHub can provide. You will notice a history section in the commit section; click on it. All the commits are listed, and you can go backwards if a change doesn't please you. Isn't it amazing?
+Your collaborator will pull ⬇️ your project and do some corrections. Let's say he does not like the colors and will change them. However, you are colorblind and cannot appreciate the changes made. Spoiler alert 🤭: here is one of the best features that GitHub can provide. You will notice a ``history`` section in the commit section; click on it. All the commits are listed, and you can go backwards if a change doesn't please you. Isn't it amazing? 🤩
 
 ⚠️ Each time a change has been made from a collaborator, you will have to pull first before pushing. Otherwise, it might not work.
 
