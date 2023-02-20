@@ -36,7 +36,8 @@ People   | Age      | Size    |
 Jérémy   | 30 yrs   | 173 cm  |
 Valentin | 28 yrs   | 176 cm  |
 
-To go a bit further\
+# A well-structured Rmakdown README is key for reproducibity
+
 But one of the highest strengths of ``RMarkdown``, is that you can write down some ideas or start writing down even for a meeting presentation, including (or not) your R analysis and your outputs. Most of the time, you will work with chunks. If you are interested, we can work on this during another tutorial.
 
 If I mentioned the chunks, it's because I highly suggest launching in the console the ``sessionInfo()`` function once your final R script is done. Then you can copy/paste the different pieces of information into a triple `` ` ``.\
@@ -57,7 +58,7 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 ```
 
-To conclude, it is worth it to build some hierarchy into your repository,\
+It is worth to build some hierarchy into your repository,\
 I recommend getting always:
 - a single ``R`` folder :file_folder:, hosting for your RProj and your R scripts.
 - a single ``Data`` folder :file_folder:, hosting for your data you are willing to share.
