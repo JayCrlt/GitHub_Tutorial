@@ -24,6 +24,7 @@ You can also refer some keywords to another page using brackets and the URL. To 
 There are plenty of ways to help your reader and to make your repository fancier. If you're not used to ``RMarkdown``, I recommend having a look at [RMarkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 You can also make tables, in certain cases, if you feel the need.
+Below I show you a silly example, but it can be terrific for the data curation use (e.g. [here](https://github.com/JWicquart/gcrmndb_benthos))
 
 **Table 1.** Silly example
 People   | Age      | Size    |
