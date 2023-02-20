@@ -11,7 +11,7 @@ Participants in 2023:
 
 ---
 
-# RMarkDown Basics
+## RMarkDown Basics
 
 This document is a ``RMarkdown``.\
 It will be presented at the beginning, and can / **should** be used to explain to your readers the purpose of this repository.
@@ -36,7 +36,7 @@ People   | Age      | Size    |
 Jérémy   | 30 yrs   | 173 cm  |
 Valentin | 28 yrs   | 176 cm  |
 
-# A well-structured Rmakdown README is key for reproducibity
+## A well-structured Rmakdown README is key for reproducibity
 
 But one of the highest strengths of ``RMarkdown``, is that you can write down some ideas or start writing down even for a meeting presentation, including (or not) your R analysis and your outputs. Most of the time, you will work with chunks. If you are interested, we can work on this during another tutorial.
 
