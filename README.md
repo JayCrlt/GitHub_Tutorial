@@ -1,6 +1,6 @@
-# GitHub tutorial <img src='Courses/vignette.png' align="right" height="110" />
+# GitHub tutorial <img src='Courses/vignette.png' align="right" height="130" />
 
-This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France. He is part of the [CHOC team](https://lov.imev-mer.fr/web/team-choc/).
+This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France. 
 
 Participants in 2023:
 - Mégane Ballin
