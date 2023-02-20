@@ -34,7 +34,7 @@ Valentin | 28 yrs   | 176 cm  |
 To go a bit further\
 But one of the highest strengths of ``RMarkdown``, is that you can write down some ideas or start writing down even for a meeting presentation, including (or not) your R analysis and your outputs. Most of the time, you will work with chunks. If you are interested, we can work on this during another tutorial.
 
-If I mentioned the chunks, it's because I highly suggest launching in the console the ``sessionInfo()`` function once your final R script is done. Then you can copy/paste the different pieces of information into a triple *`*.\ 
+If I mentioned the chunks, it's because I highly suggest launching in the console the ``sessionInfo()`` function once your final R script is done. Then you can copy/paste the different pieces of information into a triple `` *`* ``.\
 It will highly help the reproducibility of your analyse with your pairs.
 
 ```{Session Info, echo = T}
