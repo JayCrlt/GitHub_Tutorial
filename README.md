@@ -1,6 +1,6 @@
 # GitHub tutorial <img src='Courses/vignette.png' align="right" height="130" />
 
-This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France. 
+This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a result of his post-doctoral fellowship with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France and supervised by [Nuria Teixido](https://orcid.org/0000-0001-9286-2852), [Steeve Comeau](https://orcid.org/0000-0002-6724-5286) and [Jean-Pierre Gattuso](https://orcid.org/0000-0002-4533-4114). 
 
 Participants in 2023:
 - Mégane Ballin
