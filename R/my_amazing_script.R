@@ -1,6 +1,6 @@
 library(ggplot2)
 my_amazing_data <- iris
-my_colors <- c("brown3", "cornflowerblue", "gold")
+my_colors <- c("brown3", "cornflowerblue", "darkgreen")
 ggplot(my_amazing_data, aes(x = Sepal.Length, y = Sepal.Width, fill = Species)) + 
   geom_point(shape = 21, size = 4) +
   scale_fill_manual(values = my_colors) + scale_color_manual(values = my_colors) +
