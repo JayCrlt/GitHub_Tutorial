@@ -14,6 +14,9 @@ Participants in 2023:
 - Mégane Ballin
 - Romane Torchy
 
+Participants in 2024:
+- Abril Karla Hernandez Ramirez
+
 ---
 
 ## RMarkDown Basics
