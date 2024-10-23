@@ -3,12 +3,16 @@
 This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a result of his post-doctoral fellowship with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France and supervised by [Nuria Teixido](https://orcid.org/0000-0001-9286-2852), [Steeve Comeau](https://orcid.org/0000-0002-6724-5286) and [Jean-Pierre Gattuso](https://orcid.org/0000-0002-4533-4114). 
 
 Participants in 2023:
-- Mégane Ballin
 - [Jordi Boada](https://orcid.org/0000-0002-3815-625X)
-- Diego Moreno Moran
+- [Diego Moreno Moran](https://orcid.org/0009-0007-2796-2313)
 - [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
-- Romane Torchy
 - [Jana Verdura](https://orcid.org/0000-0003-0662-1206)
+- [Steeve Comeau](https://orcid.org/0000-0002-6724-5286)
+- [Frederic Gazeau](https://orcid.org/0000-0001-8807-4597)
+- [Nuria Teixido](https://orcid.org/0000-0001-9286-2852)
+- [Flavio Picone](https://orcid.org/0000-0001-6903-9665)
+- Mégane Ballin
+- Romane Torchy
 
 ---
 
