@@ -15,6 +15,7 @@ Participants in 2023:
 - Romane Torchy
 
 Participants in 2024:
+- Gaia Grasso
 - Abril Karla Hernandez Ramirez
 
 ---
