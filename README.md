@@ -5,7 +5,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ---
 ## Participants
 
-<table width="100%"> <tr> <td width="33.3%" valign="top">
+<table width="100%" align="center"> <tr> <td width="33.3%" valign="top">
 
 Participants in 2023:
 - [J. Boada](https://orcid.org/0000-0002-3815-625X)
@@ -70,7 +70,7 @@ People   | Age      | Size    |
 Jérémy   | 30 yrs   | 173 cm  |
 Valentin | 28 yrs   | 176 cm  |
 
-## A well-structured Rmakdown README is key for reproducibity
+## A well-structured Rmarkdown README is key for reproducibity
 
 But one of the highest strengths of ``RMarkdown``, is that you can write down some ideas or start writing down even for a meeting presentation, including (or not) your R analysis and your outputs. Most of the time, you will work with chunks. If you are interested, we can work on this during another tutorial.
 
