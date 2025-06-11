@@ -29,7 +29,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 
 2025:
 - [M. Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
-- [M. Cabanellas Reboredo](https://orcid.org/0000-0002-0906-1243)
+- [M.&nbsp;Cabanellas&nbsp;Reboredo](https://orcid.org/0000-0002-0906-1243)
 - [M. Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
 - [A. Carreno Castilla](https://orcid.org/0000-0002-1104-4493)
 - [A. Gran García](https://orcid.org/0000-0002-7963-2558)
