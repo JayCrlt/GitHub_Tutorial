@@ -5,9 +5,9 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ---
 ## Participants
 
-<table style="width: 100%; border: 1px solid red;"> <tr> <td width="33.3%" valign="top">
+<table width="100%" align="center"> <tr> <td width="33.3%" valign="top">
 
-Participants in 2023:
+2023:
 - [J. Boada](https://orcid.org/0000-0002-3815-625X)
 - [D. Moreno Moran](https://orcid.org/0009-0007-2796-2313)
 - [E. Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
@@ -21,13 +21,13 @@ Participants in 2023:
 
 </td> <td width="33.3%" valign="top">
   
-Participants in 2024:
+2024:
 - G. Grasso
 - A. Hernandez Ramirez
 
 </td> <td width="33.3%" valign="top">
 
-Participants in 2025:
+2025:
 - [M. Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
 - [M. Cabanellas Reboredo](https://orcid.org/0000-0002-0906-1243)
 - [M. Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
