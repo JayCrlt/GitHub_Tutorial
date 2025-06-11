@@ -5,8 +5,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ---
 ## Participants
 
-
-<table width="100%"> <td width="33.3%" valign="top">
+<table width="100%"> <tr> <td width="33.3%" valign="top">
 
 Participants in 2023:
 - [J. Boada](https://orcid.org/0000-0002-3815-625X)
@@ -42,7 +41,7 @@ Participants in 2025:
 - [P. Reglero Baron](https://orcid.org/0000-0002-1093-4750)
 - [A. Ruiz Frau](https://orcid.org/0000-0002-1317-2827)
 
-</td> </table>
+</td> </tr> </table>
 
 ---
 
