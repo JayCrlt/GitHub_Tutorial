@@ -6,41 +6,41 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ## Participants
 
 
-<table width="100%"> <td width="33.3%" valign="top">
+<table width="150%"> <td width="33.3%" valign="top">
 
 Participants in 2023:
-- [Jordi Boada](https://orcid.org/0000-0002-3815-625X)
-- [Diego Moreno Moran](https://orcid.org/0009-0007-2796-2313)
-- [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
-- [Jana Verdura](https://orcid.org/0000-0003-0662-1206)
-- [Steeve Comeau](https://orcid.org/0000-0002-6724-5286)
-- [Frederic Gazeau](https://orcid.org/0000-0001-8807-4597)
-- [Nuria Teixido](https://orcid.org/0000-0001-9286-2852)
-- [Flavio Picone](https://orcid.org/0000-0001-6903-9665)
-- Mégane Ballin
-- Romane Torchy
+- [J. Boada](https://orcid.org/0000-0002-3815-625X)
+- [D. Moreno Moran](https://orcid.org/0009-0007-2796-2313)
+- [E. Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
+- [J. Verdura](https://orcid.org/0000-0003-0662-1206)
+- [S. Comeau](https://orcid.org/0000-0002-6724-5286)
+- [F. Gazeau](https://orcid.org/0000-0001-8807-4597)
+- [N. Teixido](https://orcid.org/0000-0001-9286-2852)
+- [F. Picone](https://orcid.org/0000-0001-6903-9665)
+- M. Ballin
+- R. Torchy
 
 </td> <td width="33.3%" valign="top">
   
 Participants in 2024:
-- Gaia Grasso
-- Abril Hernandez Ramirez
+- G. Grasso
+- A. Hernandez Ramirez
 
 </td> <td width="33.3%" valign="top">
 
 Participants in 2025:
-- [Marta Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
-- [Miguel Cabanellas Reboredo](https://orcid.org/0000-0002-0906-1243)
-- [Matias Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
-- [Alejandro Carreno Castilla](https://orcid.org/0000-0002-1104-4493)
-- [Alicia Gran García](https://orcid.org/0000-0002-7963-2558)
-- [José Manuel Hidalgo Roldan](https://orcid.org/0000-0002-3494-9658) 
-- [Georgios Kerametsidis](https://orcid.org/0000-0002-6502-8122)
-- [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
-- [Patricia Puerta Ordoñez](https://orcid.org/0000-0003-4413-4601)
-- [Carla Quiles Pons](https://orcid.org/0009-0005-8859-7191)
-- [Patricia Reglero Baron](https://orcid.org/0000-0002-1093-4750)
-- [Ana Ruiz Frau](https://orcid.org/0000-0002-1317-2827)
+- [M. Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
+- [M. Cabanellas Reboredo](https://orcid.org/0000-0002-0906-1243)
+- [M. Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
+- [A. Carreno Castilla](https://orcid.org/0000-0002-1104-4493)
+- [A. Gran García](https://orcid.org/0000-0002-7963-2558)
+- [J.M. Hidalgo Roldan](https://orcid.org/0000-0002-3494-9658) 
+- [G. Kerametsidis](https://orcid.org/0000-0002-6502-8122)
+- [E. Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
+- [P. Puerta Ordoñez](https://orcid.org/0000-0003-4413-4601)
+- [C. Quiles Pons](https://orcid.org/0009-0005-8859-7191)
+- [P. Reglero Baron](https://orcid.org/0000-0002-1093-4750)
+- [A. Ruiz Frau](https://orcid.org/0000-0002-1317-2827)
 
 </td> </table>
 
