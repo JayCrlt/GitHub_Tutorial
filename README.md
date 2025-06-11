@@ -6,7 +6,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ## Participants
 
 
-<table width="150%"> <td width="33.3%" valign="top">
+<table width="100%"> <td width="33.3%" valign="top">
 
 Participants in 2023:
 - [J. Boada](https://orcid.org/0000-0002-3815-625X)
