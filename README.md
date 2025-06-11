@@ -6,9 +6,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 ## Participants
 
 
-<table width="100%">
-  <tr>
-    <td width="33.3%" valign="top">
+<table width="100%" align="right"> <td width="33.3%" valign="top">
 
 Participants in 2023:
 - [Jordi Boada](https://orcid.org/0000-0002-3815-625X)
@@ -22,15 +20,13 @@ Participants in 2023:
 - Mégane Ballin
 - Romane Torchy
 
-</td>
-<td width="33.3%" valign="top">
+</td> <td width="33.3%" valign="top">
   
 Participants in 2024:
 - Gaia Grasso
 - Abril Hernandez Ramirez
 
-</td>
-<td width="33.3%" valign="top">
+</td> <td width="33.3%" valign="top">
 
 Participants in 2025:
 - [Marta Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
@@ -46,9 +42,7 @@ Participants in 2025:
 - [Patricia Reglero Baron](https://orcid.org/0000-0002-1093-4750)
 - [Ana Ruiz Frau](https://orcid.org/0000-0002-1317-2827)
 
-</td>
-  </tr>
-</table>
+</td> </table>
 
 ---
 
