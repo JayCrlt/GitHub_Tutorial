@@ -26,17 +26,18 @@ Participants in 2024:
 <td width="50%">
 
 Participants in 2025:
-- Marta Albo Puigserver
-- Miguel Cabanellas Reboredo
-- Matias Calvo Manazza
-- Alejandro Carreno Castilla
-- Alcia Gran García
+- [Marta Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
+- [Miguel Cabanellas Reboredo](https://orcid.org/0000-0002-0906-1243)
+- [Matias Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
+- [Alejandro Carreno Castilla](https://orcid.org/0000-0002-1104-4493)
+- [Alicia Gran García](https://orcid.org/0000-0002-7963-2558)
 - José Manuel Hidalgo Roldan
-- Georgios Kerametsidis
-- Patricia Puerta Ordoñez
-- Carla Quiles Pons
-- Patricia Reglero Baron
-- Ana Ruiz Frau
+- [Georgios Kerametsidis](https://orcid.org/0000-0002-6502-8122)
+- [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
+- [Patricia Puerta Ordoñez](https://orcid.org/0000-0003-4413-4601)
+- [Carla Quiles Pons](https://orcid.org/0009-0005-8859-7191)
+- [Patricia Reglero Baron](https://orcid.org/0000-0002-1093-4750)
+- [Ana Ruiz Frau](https://orcid.org/0000-0002-1317-2827)
 
 </td>
   </tr>
