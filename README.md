@@ -26,16 +26,17 @@ Participants in 2024:
 <td width="50%">
 
 Participants in 2025:
-– Marta Albo Puigserver
-– Miguel Cabanellas Reboredo
-– Matias Calvo Manazza
-– Alejandro Carreno Castilla
-– Alcia Gran García
-– José Manuel Hidalgo Roldan
-– Georgios Kerametsidis
-– Patricia Puerta Ordoñez
-– Carla Quiles Pons
-– Ana Ruiz Frau
+- Marta Albo Puigserver
+- Miguel Cabanellas Reboredo
+- Matias Calvo Manazza
+- Alejandro Carreno Castilla
+- Alcia Gran García
+- José Manuel Hidalgo Roldan
+- Georgios Kerametsidis
+- Patricia Puerta Ordoñez
+- Carla Quiles Pons
+- Patricia Reglero Baron
+- Ana Ruiz Frau
 
 </td>
   </tr>
