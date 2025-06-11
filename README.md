@@ -6,7 +6,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="75%" valign="top">
 
 Participants in 2023:
 - [Jordi Boada](https://orcid.org/0000-0002-3815-625X)
@@ -25,7 +25,7 @@ Participants in 2024:
 - Abril Karla Hernandez Ramirez
 
 </td>
-<td width="50%" valign="top">
+<td width="75%" valign="top">
 
 Participants in 2025:
 - [Marta Albo Puigserver](https://orcid.org/0000-0002-0477-5984)
