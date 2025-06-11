@@ -8,22 +8,22 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 <table width="100%" align="center"> <tr> <td width="33.3%" valign="top">
 
 2023:
+- M. Ballin
 - [J. Boada](https://orcid.org/0000-0002-3815-625X)
-- [D. Moreno Moran](https://orcid.org/0009-0007-2796-2313)
-- [E. Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
-- [J. Verdura](https://orcid.org/0000-0003-0662-1206)
 - [S. Comeau](https://orcid.org/0000-0002-6724-5286)
 - [F. Gazeau](https://orcid.org/0000-0001-8807-4597)
-- [N. Teixido](https://orcid.org/0000-0001-9286-2852)
+- [D. Moreno Moran](https://orcid.org/0009-0007-2796-2313)
+- [E. Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
 - [F. Picone](https://orcid.org/0000-0001-6903-9665)
-- M. Ballin
+- [N. Teixido](https://orcid.org/0000-0001-9286-2852)
 - R. Torchy
+- [J. Verdura](https://orcid.org/0000-0003-0662-1206)
 
 </td> <td width="33.3%" valign="top">
   
 2024:
 - G. Grasso
-- A. Hernandez Ramirez
+- A.K.&nbsp;Hernandez&nbsp;Ramirez
 
 </td> <td width="33.3%" valign="top">
 
