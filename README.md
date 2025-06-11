@@ -2,6 +2,10 @@
 
 This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a result of his post-doctoral fellowship with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France and supervised by [Nuria Teixido](https://orcid.org/0000-0001-9286-2852), [Steeve Comeau](https://orcid.org/0000-0002-6724-5286) and [Jean-Pierre Gattuso](https://orcid.org/0000-0002-4533-4114). 
 
+<table>
+  <tr>
+    <td width="50%">
+
 Participants in 2023:
 - [Jordi Boada](https://orcid.org/0000-0002-3815-625X)
 - [Diego Moreno Moran](https://orcid.org/0009-0007-2796-2313)
@@ -18,6 +22,24 @@ Participants in 2024:
 - Gaia Grasso
 - Abril Karla Hernandez Ramirez
 
+</td>
+<td width="50%">
+
+Participants in 2025:
+– Marta Albo Puigserver
+– Miguel Cabanellas Reboredo
+– Matias Calvo Manazza
+– Alejandro Carreno Castilla
+– Alcia Gran García
+– José Manuel Hidalgo Roldan
+– Georgios Kerametsidis
+– Patricia Puerta Ordoñez
+– Carla Quiles Pons
+– Ana Ruiz Frau
+
+</td>
+  </tr>
+</table>
 ---
 
 ## RMarkDown Basics
