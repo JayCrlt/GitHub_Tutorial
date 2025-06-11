@@ -3,6 +3,8 @@
 This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a result of his post-doctoral fellowship with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/#) in France and supervised by [Nuria Teixido](https://orcid.org/0000-0001-9286-2852), [Steeve Comeau](https://orcid.org/0000-0002-6724-5286) and [Jean-Pierre Gattuso](https://orcid.org/0000-0002-4533-4114). 
 
 ---
+## Participants
+
 
 <table width="100%">
   <tr>
@@ -33,7 +35,7 @@ Participants in 2025:
 - [Matias Calvo Manazza](https://orcid.org/0000-0002-5745-9790)
 - [Alejandro Carreno Castilla](https://orcid.org/0000-0002-1104-4493)
 - [Alicia Gran García](https://orcid.org/0000-0002-7963-2558)
-- José Manuel Hidalgo Roldan
+- [José Manuel Hidalgo Roldan](https://orcid.org/0000-0002-3494-9658) 
 - [Georgios Kerametsidis](https://orcid.org/0000-0002-6502-8122)
 - [Elisabet Nebot-Colomer](https://orcid.org/0000-0003-1013-2405)
 - [Patricia Puerta Ordoñez](https://orcid.org/0000-0003-4413-4601)
