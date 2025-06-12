@@ -22,7 +22,7 @@ This tutorial is presented by [Jérémy Carlot](https://jaycrlt.github.io), as a
 </td> <td width="33.3%" valign="top">
   
 2024:
-- G. Grasso
+- [G. Grasso](https://orcid.org/0009-0006-8066-3956)
 - A.K.&nbsp;Hernandez&nbsp;Ramirez
 
 </td> <td width="33.3%" valign="top">
